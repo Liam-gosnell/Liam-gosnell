@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br>
 
-** My name is Liam, Welcome to my Github! :speech_balloon:
+#### My name is Liam, Welcome to my Github! :speech_balloon:
 
 Here are some ideas to get you started:
 
