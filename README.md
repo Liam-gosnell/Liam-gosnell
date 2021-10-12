@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br>
 
-**Liam-gosnell/Liam-gosnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** My name is Liam, Welcome to my Github! :speech_balloon:
 
 Here are some ideas to get you started:
 
